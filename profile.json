@@ -1,5 +1,16 @@
 [
   {
+    "imgUrl": "https://i.imgur.com/jktz9mz.png",
+    "name": "楊弘駿",
+    "tags": ["Vue.js", "JavaScript", "SASS", "Git"],
+    "job": ["前端工程師"],
+    "location": ["台北", "新北", "高雄"],
+    "type": ["全職"],
+    "experience": 0,
+    "description": "樂於研究、分享技術，對於 Web 有著極大的興趣及熱情，將成為全端工程師為目標邁進!",
+    "profileUrl": "https://www.cakeresume.com/s--ZtZSfKnFFlS41__MapP33A--/see2460357-f85527"
+  },
+  {
     "imgUrl": "https://i.imgur.com/5PTiocN.png",
     "name": "王緯宸",
     "tags": ["Vue.js", "JavaScript", "SCSS", "Git"],
