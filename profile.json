@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "imgUrl": "https://i.imgur.com/5PTiocN.png",
     "name": "王緯宸",
@@ -75,5 +75,16 @@
     "experience": 0,
     "description": "樂於研究、分享技術，對於 Web 有著極大的興趣及熱情，將成為全端工程師為目標邁進!",
     "profileUrl": "https://www.cakeresume.com/s--ZtZSfKnFFlS41__MapP33A--/see2460357-f85527"
+  },
+ {
+    "imgUrl": "https://imgur.com/47sC5Bo.jpg",
+    "name": "劉成展",
+    "tags": ["Vue.js", "JavaScript", "RWD", "Git"],
+    "job": ["前端工程師"],
+    "location": ["台北", "新北"],
+    "type": ["全職"],
+    "experience": 0,
+    "description": "喜愛研究新技術以及閱讀技術類型的文章，期望透過學習新技術來打造更好的作品",
+    "profileUrl": "https://www.cakeresume.com/s--bo-PM0S_EGeeZyRYfMhs5Q--/asdfg10439l"
   }
 ]
