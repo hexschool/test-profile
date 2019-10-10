@@ -31,5 +31,16 @@
     "experience": 0,
     "description": "喜歡前端開發，喜歡探索新的事物新的程式寫法",
     "profileUrl": "https://www.cakeresume.com/s--v3Y-RNpni19tUNLLS7gvxw--/exvincse"
+  },
+  {
+    "imgUrl":"https://imgur.com/apsFoM0.jpg",
+    "name":"張玴豪",
+    "tags":["Vue.js", "JavaScript", "RWD", "Git"],
+    "job":["前端工程師"],
+    "location": ["台北", "新北"],
+    "type": ["全職"],
+    "experience": 0,
+    "description": "喜歡學習新技術，喜歡了解不同的工具或元件，網站規劃時選擇最適當的作開發。",
+    "profileUrl": "https://www.cakeresume.com/s2995510"
   }
 ]
